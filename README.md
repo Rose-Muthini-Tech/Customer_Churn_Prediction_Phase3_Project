@@ -22,12 +22,19 @@ Deliver actionable insights to support targeted retention campaigns and improve 
 
 ## Data Understanding
 The dataset in use was obtained from [kaggle](https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset?resource=download). It contains SyriaTel telecom customers' information such as:
+
 1.International plan.
+
 2. Account length.
+
 3. Voicemail plan.
+
 4. Number of voicemail messages.
+
 5. Total day, evening and night calls, charges and minutes.
+
 6. Customer service calls.
+
 7. Churn. Whether a customer left or not.
 
 ### a) Distribution of international and voicemail plans by churn
